@@ -6,8 +6,8 @@ Based on code from https://github.com/Unity-Technologies/unity-ads-cocos2dx repo
 
 ## Installation
 
-- [Android]() installation manual. 
-- [iOS]() installation manual.
+- [Android](https://github.com/Unity-Technologies/unity-ads-android/wiki/sdk_android_integration_guide) installation manual. 
+- [iOS](https://github.com/Unity-Technologies/unity-ads-ios/wiki/sdk_ios_integration_guide) installation manual.
 - Add `UnityAdsNative` folder to your project (Classes folder).
 
 ## Usage
