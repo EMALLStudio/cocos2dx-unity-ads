@@ -4,7 +4,7 @@ import android.util.Log;
 
 import com.unity3d.ads.IUnityAdsListener;
 import com.unity3d.ads.UnityAds;
-import com.unity3d.ads.log.DeviceLog;
+import com.unity3d.services.core.log.DeviceLog;
 
 /**
  * Created by solomonli on 7/8/16.
